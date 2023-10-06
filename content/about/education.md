@@ -26,7 +26,7 @@ experience:
     company: Shandong University of Art&Design
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Jinan, Shandong, China
     date_start: '2021-01-01'
     date_end: '2022-01-01'
     description: |2-
