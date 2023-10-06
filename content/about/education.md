@@ -25,7 +25,7 @@ experience:
   - title: MA in Visual art design
     company: The Guangzhou Academy of Fine Arts
     company_url: ''
-    company_logo: gafa.png
+    company_logo: assets/media/icons/brands/gafa.png
     location: Guangdong, China
     date_start: '2021-09-01'
     date_end: '2024-07-01'
