@@ -2,8 +2,8 @@
 title: Chang Liu (刘畅)
 role: Master of Art
 avatar_filename: abc.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include AI-assisted design, font style transfer, font
+  design, and branding design.
 superuser: true
 status:
   icon: ☕️
