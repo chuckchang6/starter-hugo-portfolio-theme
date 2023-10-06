@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MSE Art
+  - title: MSE in Art
     company: The Guangzhou Academy of Fine Arts
     company_url: ''
     company_logo: org-x
@@ -34,7 +34,7 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: BEng Packaging Engineering
+  - title: BEng in Packaging Engineering
     company: Shandong University of Art&Design
     company_url: ''
     company_logo: org-x
