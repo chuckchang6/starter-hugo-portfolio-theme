@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/chuck23chang/
 ---
 I am a master student from Guangzhou Academy of Fine Arts. My research interests lays in AI-assisted design, font style transfer, font design and branding design. Recently I have been studying how to transfer different language font styles and even graphic styles to Chinese fonts. The ultimate question I'm thinking about now is whether we can develop easy AI tools to help designers produce more new styles of Chinese fonts.
 
