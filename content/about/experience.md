@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GAFA City School
+  - title: Teaching Assistant
+    company: GAFA City School Spring 2023 course - Font design
     company_url: ''
     company_logo: org-gc
-    location: Guangzhou
+    location: Guangzhou Academy of Fine Arts, Guangzhou
     date_start: '2023-05-01'
     date_end: '2023-07-01'
     description: |2-
