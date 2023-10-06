@@ -1,7 +1,7 @@
 ---
 title: Chang Liu (刘畅)
 role: Master of Art
-avatar_filename: abc.png
+avatar_filename: avatar_hu8a89f3c44508dbdf9485f8a6ecc9ab77_644372_270x270_fill_lanczos_center_3.png
 bio: My research interests include AI-assisted design, font style transfer, font
   design, and branding design.
 superuser: true
