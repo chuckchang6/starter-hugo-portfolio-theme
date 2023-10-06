@@ -30,7 +30,7 @@ experience:
     date_start: '2021-09-01'
     date_end: '2024-07-01'
     description: |2-
-        * Research on visual communication and media design theory
+        * visual communication and media design theory
         * Font design
         * Brand design
 
