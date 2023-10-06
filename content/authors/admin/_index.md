@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 ---
-I am a master student from Guangzhou Academy of Fine Arts. My research interests AI-assisted design, font style transfer, font design, and branding design. Recently I am studying how to use artificial intelligence tools to assist the development of Chinese font design. 
+I am a master student from Guangzhou Academy of Fine Arts. My research interests AI-assisted design, font style transfer, font design, and branding design. Recently I am studying how to use artificial intelligence tools to assist the development of Chinese font design. The ultimate question I'm thinking about now is whether we can develop easy AI tools to help designers produce more new styles of Chinese fonts.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
