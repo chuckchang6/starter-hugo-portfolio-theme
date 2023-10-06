@@ -37,7 +37,7 @@ experience:
   - title: BEng in Packaging Engineering
     company: Shandong University of Art&Design
     company_url: ''
-    company_logo: org-x
+    company_logo: sd
     location: Shandong, China
     date_start: '2017-09-01'
     date_end: '2021-07-01'
