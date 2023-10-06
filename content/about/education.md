@@ -30,9 +30,9 @@ experience:
     date_start: '2021-09-01'
     date_end: '2024-07-01'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Research on visual communication and media design theory
+        * Font design
+        * Brand design
 
   - title: BEng in Packaging Engineering
     company: Shandong University of Art&Design
@@ -41,7 +41,10 @@ experience:
     location: Shandong, China
     date_start: '2017-09-01'
     date_end: '2021-07-01'
-    description: My dissertation was on X
+    description: |2-
+        * Package design
+        * Package structure
+        * Visual art design
 
 design:
   columns: '1'
