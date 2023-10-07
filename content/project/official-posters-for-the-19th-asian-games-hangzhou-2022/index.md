@@ -15,7 +15,7 @@ links:
     name: Report
     url: https://drive.google.com/file/d/1_-skbKjRM57S6QSk4kMzhOnZT3HgY0ij/view?usp=sharing
 image:
-  caption: Query embeddings training framework
+  caption: ""
   focal_point: Smart
   filename: featured.png
 url_code: ""
