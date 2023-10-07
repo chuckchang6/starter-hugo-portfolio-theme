@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-summary: Query Embeddings using Contrastive Learning without Negative Samples
+summary: ""
 url_video: ""
 date: 2023-10-07T05:10:13.487Z
 external_link: ""
