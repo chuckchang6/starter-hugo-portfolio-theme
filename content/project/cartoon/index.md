@@ -6,7 +6,7 @@ url_video: ""
 date: 2023-10-07T05:03:59.309Z
 external_link: ""
 url_slides: ""
-title: Official Posters for The 19th Asian Games Hangzhou 2022
+title: "Official Posters for The 19th Asian Games Hangzhou "
 tags:
   - Poster
 links:
