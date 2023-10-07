@@ -1,11 +1,8 @@
 ---
-title: QBert
+title: Official Posters for The 19th Asian Games Hangzhou 2022
 summary: Query Embeddings using Contrastive Learning without Negative Samples
 tags:
-  - Semantic Search
-  - Self-supervised Learning
-  - Natural Language Processing
-  - Deep Learning
+  - Poster
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -16,10 +13,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: github
-    icon_pack: fab
-    name: Code
-    url: https://github.com/Vopaaz/QBert
   - icon: graduation-cap
     icon_pack: fas
     name: Report
