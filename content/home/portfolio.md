@@ -28,13 +28,17 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
-
+    - name: AI-Aided Design
+      tag: AI
+    - name: Font Design
+      tag: Font
+    - name: Brand Design
+      tag: Brand
+    - name: Poster Design
+      tag: Poster
+    - name: Packaging design
+      tag: Packaging
+      
 design:
   columns: '1'
   view: masonry
