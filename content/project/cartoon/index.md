@@ -20,20 +20,8 @@ image:
   filename: featured.png
 url_code: ""
 ---
-
-
 In the framework comparison, BSL demonstrated better learning ability than
-SimSiam. Even the smallest encoder BSL trained could outperform a lot than
-well-tuned ALBERT trained by SimSiam, which could be induced to richer learning capacity brought by bi-encoder structure. When substituting MLP
-projector with attention projector proved, both encoders trained on BSL and
-SimSiam were improved, which indicated that attention projector can more ef-
-fectively filter augmentation noise and exact important features from encoding.
-In addition, it appeared that exponential moving average can better prevent col-
-lapsing and enhance the stability and performance of encoder. Our experiments
-show that transfering these computer vision contrastive learning to natural lan-
-guage processing task is feasible and successful. Without negative samples par-
-ticipated, our query encoder did not collapse and exhibited high quality query
-representation.
+
 
 {{< figure src="projects/qbert/Framework comparison.png" caption="Framework comparison on Quora question duplicated pairs" >}}
 
