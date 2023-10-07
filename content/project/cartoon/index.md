@@ -1,33 +1,24 @@
 ---
-title: Official Posters for The 19th Asian Games Hangzhou 2022
+slides: ""
+url_pdf: ""
 summary: Query Embeddings using Contrastive Learning without Negative Samples
+url_video: ""
+date: 2023-10-07T05:03:59.309Z
+external_link: ""
+url_slides: ""
+title: Official Posters for The 19th Asian Games Hangzhou 2022
 tags:
   - Poster
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Query embeddings training framework
-  focal_point: Smart
-
 links:
   - icon: graduation-cap
     icon_pack: fas
     name: Report
     url: https://drive.google.com/file/d/1_-skbKjRM57S6QSk4kMzhOnZT3HgY0ij/view?usp=sharing
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+image:
+  caption: Query embeddings training framework
+  focal_point: Smart
+  filename: featured.png
+url_code: ""
 ---
 
 Semantic search is an essential topic in Natural Language Processing
