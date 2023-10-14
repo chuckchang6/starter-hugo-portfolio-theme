@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-summary: The 2022 Hangzhou Asian Games, let's play together!
+summary: The 19th Asian Games Hangzhou 2022, let's play together!
 url_video: ""
 date: 2023-10-07T05:10:13.487Z
 external_link: ""
