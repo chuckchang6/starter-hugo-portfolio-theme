@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-summary: Query Embeddings using Contrastive Learning without Negative Samples
+summary: The 4th Asian Para Games Hangzhou, Come on！
 url_video: ""
 date: 2023-10-07T05:07:23.935Z
 external_link: ""
