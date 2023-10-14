@@ -35,7 +35,7 @@ It adopts the timeless pixel style to directly convey the core information of th
 <body>
 
 <video controls>
-  <source src="assets/media/project/play together.mp4" type="video/mp4">
+  < figure src="assets/media/project/play together.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
