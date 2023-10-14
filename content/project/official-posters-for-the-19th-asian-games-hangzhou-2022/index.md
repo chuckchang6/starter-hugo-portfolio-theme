@@ -26,7 +26,7 @@ The Hangzhou Asian Games were successfully held in October 2023 after being post
 
 It adopts the timeless pixel style to directly convey the core information of the Hangzhou Asian Games. The poster combines pixel style to reflect the "smart technology" of the Hangzhou Asian Games, looking back to the past and looking forward to the future. The dynamic process of the whole poster reminds us of the pixel-based pictures of old computers and red and white game consoles, and we played pixel games together. The 2022 Hangzhou Asian Games, let's play together!
 
-{{< figure src="projects/qbert/Augmentation.png" caption="Augmentation comparison on Quora question duplicated pairs (Unsupervised trained on MS MARCO)" >}}
+{{< figure src="projects/qbert/Augmentation.png" caption="Use"}}
 
 Query embedding should be different from documents embedding, which leads
 us to the motivation of this project, as well as the representation of the results.
@@ -45,3 +45,5 @@ Having a much smaller query encoder that can be tuned with unsupervised
 learning can be a great advantage to user privacy. We can deploy the small
 model on the user devices and update parameters with Federated Learning, 
 which is a distributed machine learning paradigm that mathematically ensures user privacy.
+
+{{< figure src="projects/qbert/Online search workflow.png" caption="Online search workflow with trained QBert" >}}
