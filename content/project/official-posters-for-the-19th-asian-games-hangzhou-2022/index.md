@@ -22,7 +22,7 @@ url_code: ""
 ---
 The Hangzhou Asian Games were successfully held in October 2023 after being postponed for a year due to the pandemic
 
-{{< figure src="projects/qbert/Framework comparison.png" caption="Framework comparison on Quora question duplicated pairs" >}}
+{{< figure src="content/project/official-posters-for-the-19th-asian-games-hangzhou-2022/asian1.png" caption="Ideas" >}}
 
 It adopts the timeless pixel style to directly convey the core information of the Hangzhou Asian Games. The poster combines pixel style to reflect the "smart technology" of the Hangzhou Asian Games, looking back to the past and looking forward to the future. The dynamic process of the whole poster reminds us of the pixel-based pictures of old computers and red and white game consoles, and we played pixel games together. The 2022 Hangzhou Asian Games, let's play together!
 
