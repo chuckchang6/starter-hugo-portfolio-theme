@@ -31,24 +31,10 @@ It adopts the timeless pixel style to directly convey the core information of th
   Your browser does not support the video tag.
 </video>
 
+Query embedding should be different from documents embedding, which leads
+us to the motivation of this project, as well as the representation of the results.
+
 {{< figure src="projects/qbert/Augmentation.png" caption="Use"}}
 
 Query embedding should be different from documents embedding, which leads
 us to the motivation of this project, as well as the representation of the results.
-On the Quora question duplicated pairs test set, our positive-sample-only con-
-trastive learning method demonstrates its superiority and robustness, which can
-reach competitive performance to pseudo supervised learning. However, when
-aligned with documents embedding, the performance is not satisfied and robust
-as it on the query pair test. What indicates here is that our query encoder is
-so good at learning query embedding that it is too domain specific to be har-
-moniously projected into the document representation space. Here we suggest
-that carefully think and develop the use of bi-encoder structure system whether
-in NLP or other fields, since reaching expectation respectively does not mean
-they could work well as a unity.
-
-Having a much smaller query encoder that can be tuned with unsupervised
-learning can be a great advantage to user privacy. We can deploy the small
-model on the user devices and update parameters with Federated Learning, 
-which is a distributed machine learning paradigm that mathematically ensures user privacy.
-
-{{< figure src="projects/qbert/Online search workflow.png" caption="Online search workflow with trained QBert" >}}
