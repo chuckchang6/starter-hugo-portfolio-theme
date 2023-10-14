@@ -22,4 +22,4 @@ url_code: ""
 ---
 The form of the work refers to Mr. Wu Guanzhong's freehand painting works. It adopts eastern abstract thinking and uses ink brushstrokes combined with the speed of competition. The brushstrokes are bold and intended to leave a sharp and smooth first impression on the audience.
 
-{{< figure src="projects/asian para game.jpg" caption="Other attempts" >}}
+{{< figure src="project/asian para game.jpg" caption="Other attempts" >}}
