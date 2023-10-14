@@ -17,7 +17,7 @@ links:
 image:
   caption: Query embeddings training framework
   focal_point: Smart
-  filename: featured.png
+  filename: featured-01.jpg
 url_code: ""
 ---
 
