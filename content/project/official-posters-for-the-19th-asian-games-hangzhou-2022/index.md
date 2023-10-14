@@ -45,5 +45,3 @@ Having a much smaller query encoder that can be tuned with unsupervised
 learning can be a great advantage to user privacy. We can deploy the small
 model on the user devices and update parameters with Federated Learning, 
 which is a distributed machine learning paradigm that mathematically ensures user privacy.
-
-{{< figure src="projects/qbert/Online search workflow.png" caption="Online search workflow with trained QBert" >}}
