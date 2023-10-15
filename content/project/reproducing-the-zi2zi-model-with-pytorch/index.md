@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 title: Using zi2zi model to assist Chinese font design
 tags:
-  - Gan
+  - AI
 links:
   - icon: link
     icon_pack: fas
