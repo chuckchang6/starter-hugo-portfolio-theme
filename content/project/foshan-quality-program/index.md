@@ -18,6 +18,6 @@ In the early stage, the design team completed the current situation of domestic 
 
 {{< figure src="project/foshan2.jpg" caption="Brand mascot" >}}
 
-The mascot design is carried out with the image of the lion in Foshan intangible cultural heritage
+The mascot design is carried out with the image of the lion in Foshan intangible cultural heritage.
 
 {{< figure src="project/foshan2.jpg" caption="Dynamic expression" >}}
