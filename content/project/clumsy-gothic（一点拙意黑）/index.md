@@ -4,6 +4,8 @@ subtitle: A Chinese font with a sense of awkwardness and handwriting
 date: 2023-10-15T08:07:56.531Z
 draft: false
 featured: false
+tags:
+  - Font
 image:
   filename: featured.jpg
   focal_point: Smart
