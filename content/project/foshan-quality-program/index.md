@@ -1,6 +1,7 @@
 ---
 title: Foshan Quality Program
 date: 2023-10-15T15:27:52.738Z
+summary: Foshan Quality Program logo design and mascot design
 draft: false
 featured: false
 tags:
