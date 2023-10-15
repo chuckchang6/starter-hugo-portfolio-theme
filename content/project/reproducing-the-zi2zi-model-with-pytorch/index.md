@@ -13,7 +13,7 @@ links:
   - icon: link
     icon_pack: fas
     name: Link
-    url: https://www.hangzhou2022.cn/xwzx/jdxw/ttxw/202204/t20220401_46819.shtml
+    url: https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html
 image:
   caption: ""
   focal_point: Smart
