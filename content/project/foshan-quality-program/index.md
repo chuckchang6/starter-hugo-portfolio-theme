@@ -10,6 +10,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+In order to implement the spirit of "Opinions of Foshan Municipal Committee of the Communist Party of China and Foshan Municipal People's Government on Building a High-level talent Highland and Innovation Highland", a set of exclusive Foshan urban talent brand standards are designed for Foshan, including Foshan talent brand slogan, logo, mascot design, etc., to improve the brand communication power and social recognition of Foshan urban talent work.
+
+{{< figure src="project/foshan1.jpg" caption="Brand logo" >}}
+
+In the early stage, the design team completed the current situation of domestic and foreign talent brand research, Foshan talent brand concept sorting, Foshan talent brand slogan put forward and other work, according to the output of the brand concept and the possibility of brand slogan, respectively produced a number of visual programs, after friendly consultation with the client, the current project name selected as "Foshan Quality Program" slogan selected as "Come to Foshan, Benefit to you ", the visual plan is "Absorb dragon to attract phoenix new Foshan".
+
+{{< figure src="project/foshan2.jpg" caption="Brand mascot" >}}
+
+The mascot design is carried out with the image of the lion in Foshan intangible cultural heritage.
+
 <!DOCTYPE html>
 
 <html>
@@ -23,48 +33,38 @@ image:
   }
 
   .gif-item {
-    width: 240px; / *Adjust this to the width of your GIFs* /
-    height: 240px; / *Adjust this to the height of your GIFs* /
+    width: 80px; / *Adjust this to the width of your GIFs* /
+    height: 80px; / *Adjust this to the height of your GIFs* /
     margin: 10px;
   }
 
   .gif-item img {
-    width: 100%;
-    height: 100%;
+    width: 10%;
+    height: 10%;
   }
 </style>
 
 </head>
 <body>
 
-In order to implement the spirit of "Opinions of Foshan Municipal Committee of the Communist Party of China and Foshan Municipal People's Government on Building a High-level talent Highland and Innovation Highland", a set of exclusive Foshan urban talent brand standards are designed for Foshan, including Foshan talent brand slogan, logo, mascot design, etc., to improve the brand communication power and social recognition of Foshan urban talent work.
-
-{{< figure src="project/foshan1.jpg" caption="Brand logo" >}}
-
-In the early stage, the design team completed the current situation of domestic and foreign talent brand research, Foshan talent brand concept sorting, Foshan talent brand slogan put forward and other work, according to the output of the brand concept and the possibility of brand slogan, respectively produced a number of visual programs, after friendly consultation with the client, the current project name selected as "Foshan Quality Program" slogan selected as "Come to Foshan, Benefit to you ", the visual plan is "Absorb dragon to attract phoenix new Foshan".
-
-{{< figure src="project/foshan2.jpg" caption="Brand mascot" >}}
-
-The mascot design is carried out with the image of the lion in Foshan intangible cultural heritage.
-
 <div class="gif-container">
   <div class="gif-item">
-    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/blob/main/assets/media/project/thankyou.gif" alt="GIF 1">
+    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/raw/main/assets/media/project/thankyou.gif" alt="GIF 1">
   </div>
   <div class="gif-item">
-    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif2.gif" alt="GIF 2">
+    <img src="https://path_to_gif2.gif" alt="GIF 2">
   </div>
   <div class="gif-item">
-    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif3.gif" alt="GIF 3">
+    <img src="https://path_to_gif3.gif" alt="GIF 3">
   </div>
   <div class="gif-item">
-    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif4.gif" alt="GIF 4">
+    <img src="https://path_to_gif4.gif" alt="GIF 4">
   </div>
   <div class="gif-item">
-    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif5.gif" alt="GIF 5">
+    <img src="https://path_to_gif5.gif" alt="GIF 5">
   </div>
   <div class="gif-item">
-    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif6.gif" alt="GIF 6">
+    <img src="https://path_to_gif6.gif" alt="GIF 6">
   </div>
 </div>
 
