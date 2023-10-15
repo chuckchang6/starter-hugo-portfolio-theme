@@ -6,7 +6,7 @@ url_video: ""
 date: 2023-10-15T06:05:45.626Z
 external_link: ""
 url_slides: ""
-title: Reproducing the zi2zi Model with pytorch
+title: Using zi2zi model to assist Chinese font design
 tags:
   - Poster
 links:
