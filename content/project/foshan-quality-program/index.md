@@ -28,7 +28,7 @@ image:
 
   .gif-item {
     width: 30%;
-    max-width: 200px; / *Adjust max-width to limit item width* /
+    max-width: 20px; / *Adjust max-width to limit item width* /
     height: auto;
     margin: 10px;
   }
