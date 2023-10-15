@@ -1,7 +1,8 @@
 ---
 title: Clumsy Gothic（一点拙意黑）
-subtitle: A Chinese font with a sense of awkwardness and handwriting
+subtitle: ""
 date: 2023-10-15T08:07:56.531Z
+summary: A Chinese font with a sense of awkwardness and handwriting
 draft: false
 featured: false
 tags:
