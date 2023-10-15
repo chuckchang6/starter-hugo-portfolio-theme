@@ -17,7 +17,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: featured.png
+  filename: featured.jpg
 url_code: ""
 ---
 zi2zi(字到字, meaning from character to character) is an application and extension of the recent popular [pix2pix](https://github.com/phillipi/pix2pix) model to Chinese characters. It can tackling the same problem of style transfer between Chinese fonts.This is the first open source model I came across for style transfer between fonts. With the contribution of author Yuchen Tian, I tried to run it on my own machine and train it on my own dataset.
