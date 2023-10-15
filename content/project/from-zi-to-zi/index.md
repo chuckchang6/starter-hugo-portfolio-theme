@@ -2,6 +2,7 @@
 title: From zi to zi
 subtitle: Using zi2zi model to assist font design
 date: 2023-10-15T07:27:47.393Z
+summary: Train my own zi2zi and try to use it in the font design process
 draft: false
 featured: false
 tags:
