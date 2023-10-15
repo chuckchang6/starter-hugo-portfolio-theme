@@ -1,6 +1,7 @@
 ---
 title: Nanchang County Museum Brand Upgrading
 date: 2023-10-15T08:44:33.928Z
+summary: The new logo design of Nanchang County Museum
 draft: false
 featured: false
 image:
