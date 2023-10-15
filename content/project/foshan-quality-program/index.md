@@ -10,6 +10,33 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+  .gif-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px; /\* Adjust margin as needed \*/
+  }
+
+  .gif-item {
+    width: 240px; / *Adjust this to the width of your GIFs* /
+    height: 240px; / *Adjust this to the height of your GIFs* /
+    margin: 10px;
+  }
+
+  .gif-item img {
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+</head>
+<body>
+
 In order to implement the spirit of "Opinions of Foshan Municipal Committee of the Communist Party of China and Foshan Municipal People's Government on Building a High-level talent Highland and Innovation Highland", a set of exclusive Foshan urban talent brand standards are designed for Foshan, including Foshan talent brand slogan, logo, mascot design, etc., to improve the brand communication power and social recognition of Foshan urban talent work.
 
 {{< figure src="project/foshan1.jpg" caption="Brand logo" >}}
@@ -20,37 +47,26 @@ In the early stage, the design team completed the current situation of domestic 
 
 The mascot design is carried out with the image of the lion in Foshan intangible cultural heritage.
 
-<!DOCTYPE html>
-
-<html>
-<head>
-<style>
-  .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .gallery img {
-    width: 720px;
-    height: 720px;
-    margin: 10px; / *Adjust margin as needed* /
-  }
-</style>
-
-</head>
-<body>
-
-<div class="gallery">
-  <img src="path/to/gif1.gif" alt="GIF 1">
-  <img src="path/to/gif2.gif" alt="GIF 2">
-  <img src="path/to/gif3.gif" alt="GIF 3">
-  <img src="path/to/gif4.gif" alt="GIF 4">
-  <img src="path/to/gif5.gif" alt="GIF 5">
-  <img src="path/to/gif6.gif" alt="GIF 6">
+<div class="gif-container">
+  <div class="gif-item">
+    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/blob/main/assets/media/project/thankyou.gif" alt="GIF 1">
+  </div>
+  <div class="gif-item">
+    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif2.gif" alt="GIF 2">
+  </div>
+  <div class="gif-item">
+    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif3.gif" alt="GIF 3">
+  </div>
+  <div class="gif-item">
+    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif4.gif" alt="GIF 4">
+  </div>
+  <div class="gif-item">
+    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif5.gif" alt="GIF 5">
+  </div>
+  <div class="gif-item">
+    <img src="https://raw.githubusercontent.com/your_username/your_repository/main/path_to_gif6.gif" alt="GIF 6">
+  </div>
 </div>
 
 </body>
 </html>
-
-{{< caption="Dynamic expression" >}}
