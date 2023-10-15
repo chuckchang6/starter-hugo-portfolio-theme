@@ -27,15 +27,15 @@ image:
   }
 
   .gif-item {
-    width: 30%;
-    max-width: 20px; / *Adjust max-width to limit item width* /
+    width: 10%;
+    max-width: 200px; / *Adjust max-width to limit item width* /
     height: auto;
     margin: 10px;
   }
 
   .gif-item img {
-    width: 100%;
-    height: 100%;
+    width: 10%;
+    height: 10%;
     object-fit: cover; / *Maintain aspect ratio and cover the container* /
   }
 </style>
