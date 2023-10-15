@@ -13,7 +13,7 @@ links:
   - icon: link
     icon_pack: fas
     name: Link
-    url: https://drive.google.com/file/d/1_-skbKjRM57S6QSk4kMzhOnZT3HgY0ij/view?usp=sharing
+    url: https://www.hangzhou2022.cn/dgyy/ed/202204/t20220401_46830.shtml
 image:
   caption: ""
   focal_point: Smart
