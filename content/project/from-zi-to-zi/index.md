@@ -10,6 +10,7 @@ links:
   - icon_pack: fas
     icon: link
     url: https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html
+    name: Link
 image:
   filename: featured.jpg
   focal_point: Smart
