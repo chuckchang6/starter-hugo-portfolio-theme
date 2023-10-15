@@ -39,8 +39,8 @@ The mascot design is carried out with the image of the lion in Foshan intangible
   }
 
   .gif-item img {
-    width: 10%;
-    height: 10%;
+    width: 100%;
+    height: 100%;
   }
 </style>
 
@@ -52,19 +52,19 @@ The mascot design is carried out with the image of the lion in Foshan intangible
     <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/raw/main/assets/media/project/thankyou.gif" alt="GIF 1">
   </div>
   <div class="gif-item">
-    <img src="https://path_to_gif2.gif" alt="GIF 2">
+    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/raw/main/assets/media/project/welcome.gif" alt="GIF 2">
   </div>
   <div class="gif-item">
-    <img src="https://path_to_gif3.gif" alt="GIF 3">
+    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/raw/main/assets/media/project/en.gif" alt="GIF 3">
   </div>
   <div class="gif-item">
-    <img src="https://path_to_gif4.gif" alt="GIF 4">
+    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/raw/main/assets/media/project/hi.gif" alt="GIF 4">
   </div>
   <div class="gif-item">
-    <img src="https://path_to_gif5.gif" alt="GIF 5">
+    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/raw/main/assets/media/project/tired.gif" alt="GIF 5">
   </div>
   <div class="gif-item">
-    <img src="https://path_to_gif6.gif" alt="GIF 6">
+    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/raw/main/assets/media/project/ok.gif" alt="GIF 6">
   </div>
 </div>
 
