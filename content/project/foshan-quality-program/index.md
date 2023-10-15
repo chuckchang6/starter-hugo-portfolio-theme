@@ -68,5 +68,3 @@ image:
 
 </body>
 </html>
-
-{{< caption="Dynamic expression" >}}
