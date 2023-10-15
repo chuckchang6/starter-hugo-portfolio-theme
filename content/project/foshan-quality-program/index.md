@@ -33,8 +33,8 @@ The mascot design is carried out with the image of the lion in Foshan intangible
   }
 
   .gif-item {
-    width: 80px; / *Adjust this to the width of your GIFs* /
-    max-width: 80px; / *Adjust this to the height of your GIFs* /
+    width: 30%; / *Adjust this to the width of your GIFs* /
+    max-width: 720px; / *Adjust this to the height of your GIFs* /
     height: auto;
     margin: 10px;
   }
