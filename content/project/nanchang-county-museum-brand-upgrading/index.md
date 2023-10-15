@@ -4,6 +4,8 @@ date: 2023-10-15T08:44:33.928Z
 summary: The new logo design of Nanchang County Museum
 draft: false
 featured: false
+tags:
+  - Brand
 image:
   filename: featured.jpg
   focal_point: Smart
