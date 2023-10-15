@@ -10,31 +10,25 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In order to implement the spirit of "Opinions of Foshan Municipal Committee of the Communist Party of China and Foshan Municipal People's Government on Building a High-level talent Highland and Innovation Highland", a set of exclusive Foshan urban talent brand standards are designed for Foshan, including Foshan talent brand slogan, logo, mascot design, etc., to improve the brand communication power and social recognition of Foshan urban talent work.
-
-{{< figure src="project/foshan1.jpg" caption="Brand logo" >}}
-
-In the early stage, the design team completed the current situation of domestic and foreign talent brand research, Foshan talent brand concept sorting, Foshan talent brand slogan put forward and other work, according to the output of the brand concept and the possibility of brand slogan, respectively produced a number of visual programs, after friendly consultation with the client, the current project name selected as "Foshan Quality Program" slogan selected as "Come to Foshan, Benefit to you ", the visual plan is "Absorb dragon to attract phoenix new Foshan".
-
-{{< figure src="project/foshan2.jpg" caption="Brand mascot" >}}
-
-The mascot design is carried out with the image of the lion in Foshan intangible cultural heritage.
-
 <!DOCTYPE html>
 
 <html>
 <head>
 <style>
+  body {
+    margin: 20px;
+  }
+
   .gif-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 20px; /\* Adjust margin as needed \*/
+    margin-top: 20px; / *Adjust margin as needed* /
   }
 
   .gif-item {
-    width: 30%; / *Adjust this to the width of your GIFs* /
-    max-width: 720px; / *Adjust this to the height of your GIFs* /
+    width: 30%;
+    max-width: 200px; / *Adjust max-width to limit item width* /
     height: auto;
     margin: 10px;
   }
@@ -42,11 +36,22 @@ The mascot design is carried out with the image of the lion in Foshan intangible
   .gif-item img {
     width: 100%;
     height: 100%;
+    object-fit: cover; / *Maintain aspect ratio and cover the container* /
   }
 </style>
 
 </head>
 <body>
+
+<p>In order to implement the spirit of "Opinions of Foshan Municipal Committee of the Communist Party of China and Foshan Municipal People's Government on Building a High-level talent Highland and Innovation Highland", a set of exclusive Foshan urban talent brand standards are designed for Foshan, including Foshan talent brand slogan, logo, mascot design, etc., to improve the brand communication power and social recognition of Foshan urban talent work.</p>
+
+{{< figure src="project/foshan1.jpg" caption="Brand logo" >}}
+
+<p>In the early stage, the design team completed the current situation of domestic and foreign talent brand research, Foshan talent brand concept sorting, Foshan talent brand slogan put forward and other work, according to the output of the brand concept and the possibility of brand slogan, respectively produced a number of visual programs, after friendly consultation with the client, the current project name selected as "Foshan Quality Program" slogan selected as "Come to Foshan, Benefit to you ", the visual plan is "Absorb dragon to attract phoenix new Foshan".</p>
+
+{{< figure src="project/foshan2.jpg" caption="Brand mascot" >}}
+
+<p>The mascot design is carried out with the image of the lion in Foshan intangible cultural heritage.</p>
 
 <div class="gif-container">
   <div class="gif-item">
