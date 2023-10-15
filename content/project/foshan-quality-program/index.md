@@ -20,4 +20,37 @@ In the early stage, the design team completed the current situation of domestic 
 
 The mascot design is carried out with the image of the lion in Foshan intangible cultural heritage.
 
-{{< figure src="project/foshan2.jpg" caption="Dynamic expression" >}}
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .gallery img {
+    width: 720px;
+    height: 720px;
+    margin: 10px; / *Adjust margin as needed* /
+  }
+</style>
+
+</head>
+<body>
+
+<div class="gallery">
+  <img src="path/to/gif1.gif" alt="GIF 1">
+  <img src="path/to/gif2.gif" alt="GIF 2">
+  <img src="path/to/gif3.gif" alt="GIF 3">
+  <img src="path/to/gif4.gif" alt="GIF 4">
+  <img src="path/to/gif5.gif" alt="GIF 5">
+  <img src="path/to/gif6.gif" alt="GIF 6">
+</div>
+
+</body>
+</html>
+
+{{< caption="Dynamic expression" >}}
