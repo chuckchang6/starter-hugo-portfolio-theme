@@ -10,9 +10,9 @@ title: Official Posters for The 4th Asian Para Games Hangzhou 2022
 tags:
   - Poster
 links:
-  - icon: graduation-cap
+  - icon: link
     icon_pack: fas
-    name: Report
+    name: Link
     url: https://drive.google.com/file/d/1_-skbKjRM57S6QSk4kMzhOnZT3HgY0ij/view?usp=sharing
 image:
   caption: ""
