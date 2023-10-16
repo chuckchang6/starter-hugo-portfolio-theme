@@ -19,5 +19,5 @@ The brand uses the abstract figure of the mask -- semi-circle to form the logo a
 {{< figure src="project/wozhaoni2.jpg" caption="Brand packaging" >}}
 
 <div style="text-align: center;">
-  <iframe width="356" height="632" src="https://youtu.be/feTlIIEyyGk" title="wozhaoni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/feTlIIEyyGk?si=U-tsDPOeHb5cJHCG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
