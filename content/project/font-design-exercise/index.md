@@ -13,12 +13,12 @@ image:
 ---
 Some intermittent font exercises, from evacuation to integration
 
-{{< figure src="project/zi1.jpg" caption="Process" >}}
+{{< figure src="project/zi1.jpg" caption="Wish the number of infected people zero" >}}
 
-{{< figure src="project/zi2.jpg" caption="Process" >}}
+{{< figure src="project/zi2.jpg" caption="The wind blew the rain over the mountain" >}}
 
-{{< figure src="project/zi3" caption="Process" >}}
+{{< figure src="project/zi3.jpg" caption="Yan Zhenqing's "多宝塔碑" font engraving and innovation" >}}
 
-{{< figure src="project/zi4" caption="Process" >}}
+{{< figure src="project/zi4.jpg" caption="Copy calligraphy fonts and innovation1" >}}
 
-{{< figure src="project/zi5" caption="Process" >}}
+{{< figure src="project/zi5.jpg" caption="Copy calligraphy fonts and innovation2" >}}
