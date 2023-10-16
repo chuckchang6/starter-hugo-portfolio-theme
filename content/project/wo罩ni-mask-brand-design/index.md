@@ -17,3 +17,7 @@ With the daily promotion of protection needs, white and blue masks have long bee
 The brand uses the abstract figure of the mask -- semi-circle to form the logo and auxiliary figure, systematically presents the standard classification and characteristics of the mask on the packaging, and uses six kinds of low-saturation colors to represent their own mask styles, which is convenient for users to identify and select.
 
 {{< figure src="project/wozhaoni2.jpg" caption="Brand packaging" >}}
+
+<div style="text-align: center;">
+  <iframe width="356" height="632" src="https://youtu.be/feTlIIEyyGk" title="wozhaoni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
