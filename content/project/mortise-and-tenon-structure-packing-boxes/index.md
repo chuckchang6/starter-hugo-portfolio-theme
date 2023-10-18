@@ -25,3 +25,7 @@ The structure of the package also has a certain combination of fun. Because it i
 {{< figure src="project/sunmao3.jpg" caption="Brand logo" >}}
 
 {{< figure src="project/sunmao4.jpg" caption="Brand application" >}}
+
+<div class="gif-container">
+  <div class="gif-item">
+    <img src="https://github.com/chuckchang6/starter-hugo-portfolio-theme/raw/main/assets/media/project/sunmao6.gif" alt="GIF 1">
