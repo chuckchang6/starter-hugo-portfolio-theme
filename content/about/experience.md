@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: Teaching Assistant
+    company: GAFA School of Visual Arts and Design Spring 2022 course - Font design  
+    company_url: ''
+    company_logo: org-x
+    location: Guangzhou Academy of Fine Arts, Guangzhou
+    date_start: '2022-09-04'
+    date_end: '2020-10-8'
+    description: |2-
+        Responsibilities include:
+        
+        * Help 10 groups of students with design foundation to master six representative design techniques of Chinese font design, and choose one for font design.
+        * Led students to use zi2zi(A kind of Gan) to train their own model to try Chinese font style transfer.
+   
   - title: Teaching Assistant
     company: GAFA City School Spring 2023 course - Font design
     company_url: ''
@@ -40,27 +53,16 @@ experience:
     company: GAFA City School Spring 2023 course - Computer aided design
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Guangzhou Academy of Fine Arts, Guangzhou
+    date_start: '2016-06-10'
+    date_end: '2020-07-10'
     description: |2-
         Responsibilities include:
         
         * Teach the skills of using Photoshop, so that students with basic 0 have basic image processing ability.
         * Teach Illustrator pen tool drawing, so that students have a certain vector graphics drawing ability.
 
-  - title: Teaching Assistant
-    company: GAFA City School Spring 2023 course - Computer aided design
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Teach the skills of using Photoshop, so that students with basic 0 have basic image processing ability.
-        * Teach Illustrator pen tool drawing, so that students have a certain vector graphics drawing ability.
+ 
     
 design:
   columns: '1'
