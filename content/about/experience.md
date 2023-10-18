@@ -63,7 +63,6 @@ experience:
         * Teach the skills of using Photoshop, so that students with basic 0 have basic image processing ability.
         * Teach Illustrator pen tool drawing, so that students have a certain vector graphics drawing ability.
 
- 
     
 design:
   columns: '1'
