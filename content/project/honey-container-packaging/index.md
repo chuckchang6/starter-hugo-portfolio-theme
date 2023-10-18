@@ -6,7 +6,7 @@ featured: false
 tags:
   - Packaging
 image:
-  filename: fengmi1.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
