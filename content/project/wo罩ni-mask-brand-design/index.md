@@ -1,7 +1,8 @@
 ---
 title: '"wo罩ni" Mask Brand Design'
-subtitle: An attempt to arrange the characteristics of mask product classification
+subtitle: ""
 date: 2023-10-16T03:09:03.146Z
+summary: An attempt to arrange the characteristics of mask product classification
 draft: false
 featured: false
 tags:
