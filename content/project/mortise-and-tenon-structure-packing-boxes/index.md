@@ -1,6 +1,7 @@
 ---
 title: Mortise and Tenon Structure Packing Boxes
 date: 2023-10-18T14:58:35.295Z
+summary: Packaging box components based on mortise and tenon structure
 draft: false
 featured: false
 tags:
