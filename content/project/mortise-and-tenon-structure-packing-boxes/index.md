@@ -20,4 +20,8 @@ The packaging structure design of the PVC folding box combination packaging choi
 
 The structure of the package also has a certain combination of fun. Because it is designed to pack snacks and has certain brand potential, we try to create a SNACK brand "MIX SNACK" based on its structure to convey the diversity of its combinations.
 
+{{< figure src="project/sunmao5.jpg" caption="Snack packaging" >}}
+
 {{< figure src="project/sunmao3.jpg" caption="Snack packaging" >}}
+
+{{< figure src="project/sunmao4.jpg" caption="Snack packaging" >}}
