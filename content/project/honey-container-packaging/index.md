@@ -20,4 +20,6 @@ At the same time, the design of the prismatic tank makes the placement of honey 
 
 {{< figure src="project/fengmi4.jpg" caption="Structural view 03" >}}
 
-{{< figure src="project/fengmi3.jpg" caption="Structural view 02" >}}
+{{< figure src="project/fengmi5.jpg" caption="Practical use 01" >}}
+
+{{< figure src="project/fengmi6.jpg" caption="Practical use 02" >}}
