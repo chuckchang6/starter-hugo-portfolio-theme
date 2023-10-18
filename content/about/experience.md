@@ -23,18 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Teaching Assistant
-    company: GAFA City School Spring 2023 course - Font design
+    company: GAFA School of Visual Arts and Design Spring 2022 course - Font design
     company_url: ''
     company_logo: org-gc
     location: Guangzhou Academy of Fine Arts, Guangzhou
-    date_start: '2023-05-01'
-    date_end: '2023-06-07'
+    date_start: '2022-09-03'
+    date_end: '2022-10-08'
     description: |2-
         Responsibilities include:
         
-        * To help students understand the basic concepts and functions of font design
-        * Teach 8 groups of students the basic methods of Chinese font design, and start from copying to innovation.
-        * Tutor students to complete the design of 44 basic Chinese characters, and participate in the font design competition.
+        * Help 10 groups of students with design foundation to master six representative design techniques of Chinese font design, and choose one for font design
+        * Led students to use zi2zi(A kind of generative adversarial network) to train their own model to try Chinese font style transfer
 
   - title: Teaching Assistant
     company: GAFA City School Spring 2023 course - Font design
