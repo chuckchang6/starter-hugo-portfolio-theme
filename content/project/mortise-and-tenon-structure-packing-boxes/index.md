@@ -22,6 +22,6 @@ The structure of the package also has a certain combination of fun. Because it i
 
 {{< figure src="project/sunmao5.jpg" caption="Snack packaging" >}}
 
-{{< figure src="project/sunmao3.jpg" caption="Snack packaging" >}}
+{{< figure src="project/sunmao3.jpg" caption="Brand logo" >}}
 
-{{< figure src="project/sunmao4.jpg" caption="Snack packaging" >}}
+{{< figure src="project/sunmao4.jpg" caption="Brand application" >}}
