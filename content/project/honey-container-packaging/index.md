@@ -1,9 +1,8 @@
 ---
 title: Honey Container Packaging
 date: 2023-10-18T16:39:35.043Z
-summary: A honey container is provided for quantitative packaging of
-  non-disposable honey, which can reduce the cost and facilitate the control of
-  honey consumption, so as to meet people's demand for access and portability.
+summary: A honey container is provided for quantitative sorting of honey that is
+  not in disposable packaging.
 draft: false
 featured: false
 tags:
