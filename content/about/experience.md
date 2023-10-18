@@ -37,17 +37,18 @@ date_format: Jan 2006
         * Tutor students to complete the design of 44 basic Chinese characters, and participate in the font design competition.
 
   - title: Teaching Assistant
-    company: GAFA City School Spring 2023 course - Computer aided design
+    company: GAFA City School Spring 2023 course - Font design
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    company_logo: org-gc
+    location: Guangzhou Academy of Fine Arts, Guangzhou
+    date_start: '2023-05-01'
+    date_end: '2023-06-07'
     description: |2-
         Responsibilities include:
         
-        * Teach the skills of using Photoshop, so that students with basic 0 have basic image processing ability.
-        * Teach Illustrator pen tool drawing, so that students have a certain vector graphics drawing ability.
+        * To help students understand the basic concepts and functions of font design
+        * Teach 8 groups of students the basic methods of Chinese font design, and start from copying to innovation.
+        * Tutor students to complete the design of 44 basic Chinese characters, and participate in the font design competition.
 
   - title: Teaching Assistant
     company: GAFA City School Spring 2023 course - Computer aided design
