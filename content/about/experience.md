@@ -28,23 +28,40 @@ experience:
     company_logo: org-gc
     location: Guangzhou Academy of Fine Arts, Guangzhou
     date_start: '2023-05-01'
-    date_end: '2023-07-01'
+    date_end: '2023-06-07'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * To help students understand the basic concepts and functions of font design
+        * Teach 8 groups of students the basic methods of Chinese font design, and start from copying to innovation.
+        * Tutor students to complete the design of 44 basic Chinese characters, and participate in the font design competition.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching Assistant
+    company: GAFA City School Spring 2023 course - Computer aided design
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Teach the skills of using Photoshop, so that students with basic 0 have basic image processing ability.
+        * Teach Illustrator pen tool drawing, so that students have a certain vector graphics drawing ability.
 
+  - title: Teaching Assistant
+    company: GAFA City School Spring 2023 course - Computer aided design
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Teach the skills of using Photoshop, so that students with basic 0 have basic image processing ability.
+        * Teach Illustrator pen tool drawing, so that students have a certain vector graphics drawing ability.
+    
 design:
   columns: '1'
 ---
