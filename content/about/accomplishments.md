@@ -42,7 +42,7 @@ item:
         * CHINA COMPETITION OF CREATIVE PACKAGING DESIGN 2021 / Second Prize
     organization: The Guangzhou Academy of Fine Arts
     organization_url: https://www.gzarts.edu.cn/
-    title: Fellowships and Awards(MA)
+    title: Fellowships and Awards (MA)
     url: ''
   - date_end: '2021-07-01'
     date_start: '2017-09-01'
@@ -56,7 +56,7 @@ item:
         * College students three to the countryside "Thousand Village Action" 2018 / Provincial excellent team
     organization: Shandong University of Art&Design
     organization_url: https://www.sdada.edu.cn/
-    title: Fellowships and Awards(BEng)
+    title: Fellowships and Awards (BEng)
     url: ''
 
 design:
