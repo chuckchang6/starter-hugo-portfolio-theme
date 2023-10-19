@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: GAFA School of Visual Arts and Design Spring 2022 course - Font design
-    company_url: ''
+    company_url: 'https://www.gzarts.edu.cn/jgsz/jxjg/sjyssjxy.htm'
     company_logo: vad
     location: Guangzhou Academy of Fine Arts, Guangzhou
     date_start: '2022-09-03'
@@ -37,7 +37,7 @@ experience:
 
   - title: Teaching Assistant
     company: GAFA City School Spring 2023 course - Font design
-    company_url: ''
+    company_url: 'https://csxy.gzarts.edu.cn/index.htm'
     company_logo: city
     location: Guangzhou Academy of Fine Arts, Guangzhou
     date_start: '2023-05-01'
@@ -51,7 +51,7 @@ experience:
 
   - title: Teaching Assistant
     company: GAFA City School Spring 2023 course - Computer aided design
-    company_url: ''
+    company_url: 'https://csxy.gzarts.edu.cn/index.htm'
     company_logo: city
     location: Guangzhou Academy of Fine Arts, Guangzhou
     date_start: '2023-06-14'
