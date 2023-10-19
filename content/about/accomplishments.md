@@ -25,28 +25,20 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: 'Sep 2021 – Now'
     description: ''
-    organization: Coursera
+    organization: The Guangzhou Academy of Fine Arts
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Fellowships and Awards
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: 'Sep 2017 – Jun 2021'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    title: Fellowships and Awards
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
 
 design:
   columns: '1'
