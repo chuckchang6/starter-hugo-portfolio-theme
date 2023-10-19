@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Teaching Assistant
-    company: GAFA School of Visual Arts and Design Spring 2022 course - Font design
+    company: GAFA School of Visual Arts Design Spring 2022 course - Font design
     company_url: 'https://www.gzarts.edu.cn/jgsz/jxjg/sjyssjxy.htm'
     company_logo: vad
     location: Guangzhou Academy of Fine Arts, Guangzhou
