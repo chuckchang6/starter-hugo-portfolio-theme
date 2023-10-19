@@ -28,7 +28,8 @@ item:
     description: |2-
     
         * 17th place
-    organization: Coursera
+    organization: The Guangzhou Academy of Fine Arts
+    organization_logo: gafa
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
