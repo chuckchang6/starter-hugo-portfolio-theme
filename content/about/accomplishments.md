@@ -31,6 +31,7 @@ item:
         * The First Prize Scholarship (2023)
         * The Third Prize Scholarship (2022)
         * The Second Prize Scholarship (2021)
+    
           The Official Poster of the 19th Asian Games / Was Selected
           The Official Poster of the 4th Asian Para Games has / Was Selected
           INNOVATE &INHERIT The 5th FONTSTAR Design Competition / Excellence Award
