@@ -26,7 +26,16 @@ item:
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: 'Sep 2021 – Now'
-    description: ''
+    description: '
+    The Official Poster of the 19th Asian Games / Was Selected
+    The Official Poster of the 4th Asian Para Games has / Was Selected
+    INNOVATE &INHERIT The 5th FONTSTAR Design Competition / Excellence Award
+    The 5th Hong Kong Contemporary Design Awards / Bronze Award
+    2023 PREMIO ROCA Certificados de Premios / Bronze Award
+    2022 BRITISH ECOLOGY DESIGN AWARD / Nomination Award
+    The 6th CGDA Graphic Design Academy Award / Finalist Award
+    2022 KAN TAI-KEUNG DESIGN AWARD / Nomination Award
+    2021 CHINA COMPETITION OF CREATIVE PACKAGING DESIGN / Second Prize'
     organization: The Guangzhou Academy of Fine Arts
     organization_url: https://www.coursera.org
     title: Fellowships and Awards
