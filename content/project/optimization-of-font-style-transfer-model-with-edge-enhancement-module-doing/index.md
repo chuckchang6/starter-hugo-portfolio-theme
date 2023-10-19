@@ -29,3 +29,5 @@ This project selects two open source HYQiHei and SourceHanSerifSC as the source 
 {{< figure src="project/gan3.jpg" caption="Generation quality comparison" >}}
 
 {{< figure src="project/gan4.jpg" caption="Comparison of quantitative evaluation indicators" >}}
+
+The project is still in progress, the code and results will be sorted out as soon as possible
