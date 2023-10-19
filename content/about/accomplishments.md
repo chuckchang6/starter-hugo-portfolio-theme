@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: ''
+  - date_end: '2024-07-01'
     date_start: '2021-09-01'
     description: |2-
     
@@ -42,7 +42,7 @@ item:
         * CHINA COMPETITION OF CREATIVE PACKAGING DESIGN 2021 / Second Prize
     organization: The Guangzhou Academy of Fine Arts
     organization_url: https://www.gzarts.edu.cn/
-    title: Fellowships and Awards
+    title: Fellowships and Awards(MA)
     url: ''
   - date_end: '2021-07-01'
     date_start: '2017-09-01'
@@ -53,10 +53,10 @@ item:
         * The Third Prize Scholarship (2019)
         * Academy Award of China College Students Advertising Art Festival 2020 / Excellence Award
         * National College and Secondary School Marine Culture Creative Design Competition 2019 / Finalist Award
-        * College students three to the countryside "Thousand Village Action" 2018 / provincial excellent team
+        * College students three to the countryside "Thousand Village Action" 2018 / Provincial excellent team
     organization: Shandong University of Art&Design
     organization_url: https://www.sdada.edu.cn/
-    title: Fellowships and Awards
+    title: Fellowships and Awards(BEng)
     url: ''
 
 design:
