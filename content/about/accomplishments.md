@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -23,35 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: 'Now'
-    date_start: '2021-09-01'
-    description: |2-
-        Participated and won more than two silver medals in the Kaggle Competitions:
-
-        * 17th place [Sartorius - Cell Instance Segmentation (Top 1%)](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation)
-        * 32nd place [UW-Madison GI Tract Image Segmentation (Top 2%)](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
-        * 38th place [chaii - Hindi and Tamil Question Answering (Top 4%)](https://www.kaggle.com/competitions/chaii-hindi-and-tamil-question-answering)
-        * 50th place [VinBigData Chest X-ray Abnormalities Detection (Top 4%)](https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection)
-        * 73rd place [Tabular Playground Series - Nov 2021 (Top 5%)](https://www.kaggle.com/competitions/tabular-playground-series-nov-2021)
-    organization: Kaggle
-    organization_url: https://www.kaggle.com
-    title: 'Kaggle Expert'
-    url: 'https://www.kaggle.com/charonwangg'
-  - date_end: '2021-07-01'
-    date_start: '2017-09-01'
-    description: |2-
-         Fellowships and Awards during acquisition of Bachelor's Degree:
-
-         * Twice Learning Star
-         * Twice Innovation and Invention Star
-         * Outstanding Bachelor Thesis
-         * Honor Prize in the 2019 International Mathematical Contest in Modeling
-         * Third Place in the 2019 National Biomedical Engineering Design Competition
-    organization: Shenzhen University
-    organization_url: https://www.szu.edu.cn/
-    title: Fellowships and Awards
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-25'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Neural Networks and Deep Learning
+    url: ''
+  - certificate_url: https://www.edx.org
+    date_end: ''
+    date_start: '2021-01-01'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: edX
+    organization_url: https://www.edx.org
+    title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
+    description: ''
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: 'Object-Oriented Programming in R'
     url: ''
 
 design:
-  columns: '2'
+  columns: '1'
 ---
