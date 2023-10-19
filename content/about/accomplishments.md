@@ -41,7 +41,6 @@ item:
         * KAN TAI-KEUNG DESIGN AWARD 2022 / Nomination Award
         * CHINA COMPETITION OF CREATIVE PACKAGING DESIGN 2021 / Second Prize
     organization: The Guangzhou Academy of Fine Arts
-    organization_logo: gafa
     organization_url: https://www.gzarts.edu.cn/
     title: Fellowships and Awards
     url: ''
@@ -56,7 +55,6 @@ item:
         * National College and Secondary School Marine Culture Creative Design Competition 2019 / Finalist Award
         * College students three to the countryside "Thousand Village Action" 2018 / provincial excellent team
     organization: Shandong University of Art&Design
-    organization_logo: sd
     organization_url: https://www.sdada.edu.cn/
     title: Fellowships and Awards
     url: ''
