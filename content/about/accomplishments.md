@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: ''
-    date_start: '2021-01-25'
+  - date_end: 'Now'
+    date_start: '2021-09-01'
     description: |2-
     
         * National scholarship (2023)
@@ -45,8 +45,8 @@ item:
     organization_url: https://www.gzarts.edu.cn/
     title: Fellowships and Awards
     url: ''
-  - date_end: ''
-    date_start: '2021-01-01'
+  - date_end: '2021-07-01'
+    date_start: '2017-09-01'
     description: |2-
     
         * Outstanding Graduate of Shandong Province (2021)
