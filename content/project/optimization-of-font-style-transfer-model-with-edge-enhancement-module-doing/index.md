@@ -8,7 +8,7 @@ featured: false
 tags:
   - AI
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
