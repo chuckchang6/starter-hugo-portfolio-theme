@@ -35,38 +35,31 @@ item:
         * The Official Poster of the 4th Asian Para Games has / Was Selected
         * INNOVATE &INHERIT The 5th FONTSTAR Design Competition / Excellence Award
         * The 5th Hong Kong Contemporary Design Awards / Bronze Award
-        * 2023 PREMIO ROCA Certificados de Premios / Bronze Award
-        * 2022 BRITISH ECOLOGY DESIGN AWARD / Nomination Award
+        * PREMIO ROCA Certificados de Premios 2023 / Bronze Award
+        * BRITISH ECOLOGY DESIGN AWARD 2022 / Nomination Award
         * The 6th CGDA Graphic Design Academy Award / Finalist Award
-        * 2022 KAN TAI-KEUNG DESIGN AWARD / Nomination Award
-        * 2021 CHINA COMPETITION OF CREATIVE PACKAGING DESIGN / Second Prize
+        * KAN TAI-KEUNG DESIGN AWARD 2022 / Nomination Award
+        * CHINA COMPETITION OF CREATIVE PACKAGING DESIGN 2021 / Second Prize
     organization: The Guangzhou Academy of Fine Arts
-    organization_logo: gafa.svg
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization_logo: gafa
+    organization_url: https://www.gzarts.edu.cn/
+    title: Fellowships and Awards
     url: ''
   - date_end: ''
     date_start: '2021-01-01'
     description: |2-
     
-        * National scholarship (2023)
-        * The First Prize Scholarship (2023)
-        * The Third Prize Scholarship (2022)
-        * The Second Prize Scholarship (2021)
-        * The Official Poster of the 19th Asian Games / Was Selected
-        * The Official Poster of the 4th Asian Para Games has / Was Selected
-        * INNOVATE &INHERIT The 5th FONTSTAR Design Competition / Excellence Award
-        * The 5th Hong Kong Contemporary Design Awards / Bronze Award
-        * 2023 PREMIO ROCA Certificados de Premios / Bronze Award
-        * 2022 BRITISH ECOLOGY DESIGN AWARD / Nomination Award
-        * The 6th CGDA Graphic Design Academy Award / Finalist Award
-        * 2022 KAN TAI-KEUNG DESIGN AWARD / Nomination Award
-        * 2021 CHINA COMPETITION OF CREATIVE PACKAGING DESIGN / Second Prize
-    organization: edX
-    organization_logo: sd.svg
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        * Outstanding Graduate of Shandong Province (2021)
+        * The First Prize Scholarship (2020)
+        * The Third Prize Scholarship (2019)
+        * Academy Award of China College Students Advertising Art Festival 2020 / Excellence Award
+        * National College and Secondary School Marine Culture Creative Design Competition 2019 / Finalist Award
+        * College students three to the countryside "Thousand Village Action" 2018 / provincial excellent team
+    organization: Shandong University of Art&Design
+    organization_logo: sd
+    organization_url: https://www.sdada.edu.cn/
+    title: Fellowships and Awards
+    url: ''
 
 design:
   columns: '1'
