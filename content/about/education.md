@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MA in Visual art design
+  - title: MA in Visual Art Design
     company: The Guangzhou Academy of Fine Arts
     company_url: ''
     company_logo: gafa
@@ -30,9 +30,13 @@ experience:
     date_start: '2021-09-01'
     date_end: '2024-07-01'
     description: |2-
-        * visual communication and media design theory
-        * Font design
-        * Brand design
+        Coursework
+        * Conceptual Design
+        * Classic Design Literature
+        * Font Design
+        * Design Research Method
+        * NFT Art
+        * Design Concept
 
   - title: BEng in Packaging Engineering
     company: Shandong University of Art&Design
@@ -42,9 +46,16 @@ experience:
     date_start: '2017-09-01'
     date_end: '2021-07-01'
     description: |2-
-        * Package design
-        * Package structure
-        * Visual art design
+        Coursework
+        * Packaging Materials Science
+        * Packaging Design
+        * Font Design
+        * Linear Algebr
+        * Probability and Statistics
+        * Polymer Physics and Chemistry
+        * Image Expression
+        * Advanced Mathematics
+        * C++
 
 design:
   columns: '1'
