@@ -18,7 +18,7 @@ In this project, when using zi2zi and CycleGan methods, it was found that the ed
 
 {{< figure src="project/gan1.jpg" caption="Font design process (Opportunity point)" >}}
 
-At present, the representative company of Chinese font design industry, foundertype, usually designs 50 fonts containing 31 strokes of Chinese characters, and then designs 500 fonts containing most of the single characters and combined characters. Based on their experienced workflow, I was able to quickly create the font samples needed for training.
+At present, the representative company of Chinese font design industry, [foundertype(方正字库)](https://www.foundertype.com/index.php/News/newsdetails/id/24.html), usually designs 50 fonts containing 31 strokes of Chinese characters, and then designs 500 fonts containing most of the single characters and combined characters. Based on their experienced workflow, I was able to quickly create the font samples needed for training.
 
 My goal this time will be to focus on training a high-quality font generation model with a sample size of 500 words. In the future, I plan to design a high-quality font generation model with a sample size of only 50 words.
 
