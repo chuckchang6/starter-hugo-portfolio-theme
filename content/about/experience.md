@@ -25,7 +25,7 @@ experience:
   - title: Teaching Assistant
     company: GAFA School of Visual Arts and Design Spring 2022 course - Font design
     company_url: ''
-    company_logo: org-gc
+    company_logo: vad
     location: Guangzhou Academy of Fine Arts, Guangzhou
     date_start: '2022-09-03'
     date_end: '2022-10-08'
@@ -38,7 +38,7 @@ experience:
   - title: Teaching Assistant
     company: GAFA City School Spring 2023 course - Font design
     company_url: ''
-    company_logo: org-gc
+    company_logo: city
     location: Guangzhou Academy of Fine Arts, Guangzhou
     date_start: '2023-05-01'
     date_end: '2023-06-07'
@@ -52,7 +52,7 @@ experience:
   - title: Teaching Assistant
     company: GAFA City School Spring 2023 course - Computer aided design
     company_url: ''
-    company_logo: org-x
+    company_logo: city
     location: Guangzhou Academy of Fine Arts, Guangzhou
     date_start: '2023-06-14'
     date_end: '2023-07-14'
